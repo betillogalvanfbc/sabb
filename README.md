@@ -1,5 +1,5 @@
-# ppcash
-ppcash
+# Scope Automatic Bug Bounty (SABB)
+
 
 
 # How to install
