@@ -17,7 +17,10 @@ go install -v github.com/betillogalvanfbc/sabb@latest
 🚀 Usage
 Once installed, you can use it as follows, replacing the placeholders:
 
+```bash
 sabb -program hackerone -apikey <YOUR_API_KEY> -username <YOUR_USERNAME> -timeout 2m
+```
+
 
 -program: The platform to use (in this case, hackerone).
 
