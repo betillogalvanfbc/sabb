@@ -6,7 +6,11 @@
 go install -v github.com/betillogalvanfbc/sabb@latest
 
 # How to use
-ppcash  -program hackerone -apikey apikeyx -username usernamex -timeout 2m
+sabb  -program hackerone -apikey apikeyx -username usernamex -timeout 2m
 
 
 # Hackerone APIKEY
+
+
+# References
+https://api.hackerone.com/getting-started-hacker-api/#getting-started-hacker-api
