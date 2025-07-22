@@ -10,7 +10,7 @@ By using this tool, security researchers can save hours of manual work, getting 
 To install the tool, make sure you have Go installed and run the following command:
 
 ```bash
-go install -v [github.com/betillogalvanfbc/sabb@latest](https://github.com/betillogalvanfbc/sabb@latest)
+go install -v github.com/betillogalvanfbc/sabb@latest
 ```
 
 
