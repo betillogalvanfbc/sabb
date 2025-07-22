@@ -10,9 +10,3 @@ ppcash  -program hackerone -apikey apikeyx -username usernamex -timeout 2m
 
 
 # Hackerone APIKEY
-
-# Intigriti APIKEY
-- TODO
-
-# Bugcrowd APIKEY
-- TODO
